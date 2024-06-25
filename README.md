@@ -10,7 +10,9 @@ https://golang.google.cn/dl/
 
 建议选择GoLand对于新手比较友好
 
-[GoLand安装与环境配置_goland配置环境-CSDN博客](https://blog.csdn.net/weixin_40563757/article/details/115476327?ops_request_misc=%7B%22request%5Fid%22%3A%22171924045516800213024036%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=171924045516800213024036&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-115476327-null-null.142^v100^pc_search_result_base1&utm_term=go ： GoLand安装及环境配置&spm=1018.2226.3001.4187)
+[【七天入门Go语言】Goland && Golang 的安装与配置 | 第一天_go and golang-CSDN博客](https://blog.csdn.net/weixin_45304503/article/details/119295577)
+
+
 
 
 
@@ -235,3 +237,59 @@ k8s
 操作系统
 
 分布式
+
+
+
+#### 推荐项目
+
+推荐先写一个小的练手项目
+
+B站--https://www.bilibili.com/video/BV1Xi421Z72A
+
+看一遍基本上就了解前后端之间的关系,以及掌握crud技巧
+
+这是我写好的代码--[niuweiming/vote_project: 投票项目 (github.com)](https://github.com/niuweiming/vote_project)
+
+或者是 写一个备忘录
+
+[CocaineCong/TodoList: Gin+Gorm+Redis+Swagger 基于 RESTful API 规范搭建备忘录，包括redis缓存，swagger文档，docker部署 (github.com)](https://github.com/CocaineCong/TodoList)
+
+https://www.bilibili.com/video/BV1GT4y1R7tX/
+
+
+
+下面就是进阶一点的项目
+
+微服务的备忘录
+
+[CocaineCong/micro-todoList at v2 (github.com)](https://github.com/CocaineCong/micro-todoList/tree/v2)
+
+https://www.bilibili.com/video/BV1h44y1L7LN/
+
+
+
+关于秒杀问题解决方案
+
+https://github.com/CocaineCong/Go-SecKill.git
+
+
+
+做一个即时通信
+
+[CocaineCong/gin-chat-demo: gin+websocket+mongodb实现 IM 即时聊天系统，基于WS连接的即时聊天，支持单聊，在线回复以及历史记录查询 (github.com)](https://github.com/CocaineCong/gin-chat-demo)
+
+https://www.bilibili.com/video/BV1BP4y1H7gV
+
+
+
+
+
+这些项目学完基本上大体已经对后端各种框架技术有一个很好的掌握了
+
+后端技术栈
+
+go+gorm+gin+mysql+redis+kafka+websocket+mongoDB
+
+云原生技术栈
+
+go+docker+k8s
